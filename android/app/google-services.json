@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020632706607",
+    "project_id": "listagemagro",
+    "storage_bucket": "listagemagro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020632706607:android:727fc5f12c304bd9cde0da",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_agro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMzrAPfz7HJT0qjz6IoRTqcsiBRQZ9ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
